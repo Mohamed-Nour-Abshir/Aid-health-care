@@ -1,0 +1,2 @@
+[27-May-2023 06:23:25 UTC] PHP Fatal error:  Trait "App\Traits\Sessionable" not found in /home/sikdersh/public_html/app/Models/User.php on line 16
+[27-May-2023 06:25:06 UTC] PHP Fatal error:  Trait "App\Traits\Sessionable" not found in /home/sikdersh/public_html/app/Models/User.php on line 16
